@@ -30,7 +30,9 @@ WPW
 OOO
 ```
 O = obsidian
+
 W = water bucket
+
 P = packed ice
 
 **If you want me to port this mod to another version of forge/neoforge then make an issue here.**
