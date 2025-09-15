@@ -1,7 +1,7 @@
 # Infinite Water Block
-https://modrinth.com/mod/MOD
+https://modrinth.com/mod/infinite-water-block
 
-https://www.curseforge.com/minecraft/mc-mods/MOD
+https://www.curseforge.com/minecraft/mc-mods/infinite-water-block
 
 
 
