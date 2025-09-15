@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-*Please leave this blank. Set the issue title to `[VERSION] <version>`, eg. `[VERSION] 1.18.2`*
+*Please leave this blank. Set the issue title to `[VERSION] <version>`, eg. `[VERSION] NeoForge 1.18.2`*
